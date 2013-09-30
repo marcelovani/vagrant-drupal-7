@@ -17,7 +17,7 @@ configuration and puppet scripts.
 Copy and paste this into your shell to install everything:
 
 ```
-curl -L -s http://goo.gl/0M4EKK | bash
+curl -L -s http://goo.gl/al46Bc | bash
 ```
 
 Installation script will:
